@@ -1,0 +1,50 @@
+.postImg{
+    height: 260px;
+    overflow: hidden;
+}
+
+.postImg img{
+    width: 100%;
+    opacity: 0.3;
+}
+
+.blogPostContent h1{
+    /* background-color: rebeccapurple; */
+    text-align: center;
+
+}
+
+.blogPostContent p{
+    font-size: 19px;
+}
+
+.row{
+    display: flex;
+}
+
+.morePost{
+    flex-direction: column;
+    align-items: center;
+    width: 300px;
+}
+
+.blogPostMeta{
+    display: flex;
+    /* background-color: red; */
+    justify-content: space-between;
+}
+
+.authorInfo{
+    margin: 12px 0;
+}
+
+.authorInfo div{
+    padding: 4px 0;
+    font-family: var(--font2);
+}
+
+.social{
+    padding-right: 23px;
+    align-self: center;
+    cursor: pointer;
+}
