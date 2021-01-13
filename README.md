@@ -4,17 +4,17 @@ It's a simple and responsive blog website template designed to use for free by a
 
 ### Here are some live examples for demonstration: 
 
-1. Home Page
-![Home Page](screenshots/home.gif)
+1. Home Page <br>
+![Home Page](screenshots/home.gif) <br>
 
-2. Search Page (Demonstration)
-![Search Page](screenshots/search.gif)
+2. Search Page (Demonstration) <br>
+![Search Page](screenshots/search.gif) <br>
 
-3. Contact Page
-![Contact Page](screenshots/contact.gif)
+3. Contact Page <br>
+![Contact Page](screenshots/contact.gif) <br>
 
-4. Blog Post Page
-![Blog Post](screenshots/blogpost.gif)
+4. Blog Post Page<br>
+![Blog Post](screenshots/blogpost.gif)<br>
 
-5. Mobile View
-![Mobile View](screenshots/mobile.gif)
+5. Mobile View<br>
+![Mobile View](screenshots/mobile.gif)<br>
